@@ -3,3 +3,9 @@
 #Dataset: [15] Fadi Fayez Thabtah (2017), “Autistic Spectrum Disorder Screening Data for children,” https://archive.ics.uci.edu/ml/machine-learningdatabases/00419/ ,2017
 
 #AQ-10 (childversion) link:https://docs.autismresearchcentre.com/tests/AQ10-Child.pdf
+
+Use mechine Learning Model :
+SVC
+Logistic regression
+KNN
+(in paper they use many more ML models)
